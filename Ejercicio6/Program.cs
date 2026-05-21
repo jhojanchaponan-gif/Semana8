@@ -8,7 +8,6 @@ namespace Ejercicio6
 {
     internal class Program
     {
-        // Función para calcular el costo del agua
         static double calcularCostoAgua(int m3)
         {
             double costo;
@@ -25,7 +24,6 @@ namespace Ejercicio6
             return costo;
         }
 
-        // Procedimiento para mostrar el recibo
         static void mostrarRecibo(int m3, double costo)
         {
             Console.WriteLine("Consumo: " + m3 + " m3");

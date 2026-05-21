@@ -1,0 +1,7 @@
+C:\Users\JHOJAN\source\repos\Semana8\Semana8\Ejercicio6\bin\Debug\Ejercicio6.exe.config
+C:\Users\JHOJAN\source\repos\Semana8\Semana8\Ejercicio6\bin\Debug\Ejercicio6.exe
+C:\Users\JHOJAN\source\repos\Semana8\Semana8\Ejercicio6\bin\Debug\Ejercicio6.pdb
+C:\Users\JHOJAN\source\repos\Semana8\Semana8\Ejercicio6\obj\Debug\Ejercicio6.csproj.AssemblyReference.cache
+C:\Users\JHOJAN\source\repos\Semana8\Semana8\Ejercicio6\obj\Debug\Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\JHOJAN\source\repos\Semana8\Semana8\Ejercicio6\obj\Debug\Ejercicio6.exe
+C:\Users\JHOJAN\source\repos\Semana8\Semana8\Ejercicio6\obj\Debug\Ejercicio6.pdb
